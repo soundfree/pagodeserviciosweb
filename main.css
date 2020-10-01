@@ -33,7 +33,7 @@ h1 {
 }
 
 h1 a {
-    background: url(../images/logo.png) no-repeat;
+    background: url(logo.png) no-repeat;
     display: block;
     height: 37px;
     text-indent: -9999px;
@@ -89,12 +89,12 @@ h1 a {
 }
 
 .with_dropdown .main_menu_first {
-    background: url(../images/arrow_down.png) no-repeat 92%;
+    background: url(arrow_down.png) no-repeat 92%;
     padding-right: 23px;
 }
 
 .with_dropdown:hover .main_menu_first {
-    background: #fff url(../images/arrow_down.png) no-repeat 92%;
+    background: #fff url(arrow_down.png) no-repeat 92%;
     border-top: 5px solid #2aacc8;
     color: #2aacc8;
 }
@@ -127,7 +127,7 @@ h1 a {
 /* ----- Slideshow Styling ----- */
 
 #slideshow_area {
-    background: #81e4ed url(../images/banner_shadow.png) repeat-x;
+    background: #81e4ed url(banner_shadow.png) repeat-x;
     border-top: 1px solid #6ec2ca;
     padding: 19px 0 28px 0;
 }
@@ -149,14 +149,14 @@ h1 a {
 }
 
 #slideshow_pagination a {
-    background: url(../images/grey_button.png) no-repeat;
+    background: url(grey_button.png) no-repeat;
     display: block;
     height: 14px;
     width: 14px;
 }
 
 #slideshow_pagination a.current {
-    background: url(../images/white_button.png) no-repeat;
+    background: url(white_button.png) no-repeat;
 }
 
 /* ----- Slideshow Styling ----- */
@@ -201,19 +201,19 @@ h1 a {
 }
 
 #clean {
-    background: url(../images/pen_icon.png) no-repeat left;
+    background: url(pen_icon.png) no-repeat left;
 }
 
 #responsive {
-    background: url(../images/screen_icon.png) no-repeat left;
+    background: url(screen_icon.png) no-repeat left;
 }
 
 #fully {
-    background: url(../images/layer_icon.png) no-repeat left;
+    background: url(layer_icon.png) no-repeat left;
 }
 
 #ready {
-    background: url(../images/paperplane_icon.png) no-repeat left;
+    background: url(paperplane_icon.png) no-repeat left;
 }
 
 #latest_works {
@@ -221,7 +221,7 @@ h1 a {
 }
 
 #latest_works h3 {
-    background: url(../images/cursor_icon.png) no-repeat left;
+    background: url(cursor_icon.png) no-repeat left;
     float: left;
     font-size: 15px;
     font-weight: bold;
@@ -270,67 +270,67 @@ h1 a {
 }
 
 #work01 {
-    background: url(../images/latest_work01.jpg) no-repeat;
+    background: url(latest_work01.jpg) no-repeat;
 }
 
 #work02 {
-    background: url(../images/latest_work02.jpg) no-repeat;
+    background: url(latest_work02.jpg) no-repeat;
 }
 
 #work03 {
-    background: url(../images/latest_work03.jpg) no-repeat;
+    background: url(latest_work03.jpg) no-repeat;
 }
 
 #work04 {
-    background: url(../images/latest_work04.jpg) no-repeat;
+    background: url(latest_work04.jpg) no-repeat;
 }
 
 #work05 {
-    background: url(../images/latest_work05.jpg) no-repeat;
+    background: url(latest_work05.jpg) no-repeat;
 }
 
 #work06 {
-    background: url(../images/latest_work06.jpg) no-repeat;
+    background: url(latest_work06.jpg) no-repeat;
 }
 
 #work07 {
-    background: url(../images/latest_work07.jpg) no-repeat;
+    background: url(latest_work07.jpg) no-repeat;
 }
 
 #work08 {
-    background: url(../images/latest_work08.jpg) no-repeat;
+    background: url(latest_work08.jpg) no-repeat;
 }
 
 #work09 {
-    background: url(../images/latest_work09.jpg) no-repeat;
+    background: url(latest_work09.jpg) no-repeat;
 }
 
 #work10 {
-    background: url(../images/latest_work10.jpg) no-repeat;
+    background: url(latest_work10.jpg) no-repeat;
 }
 
 #work11 {
-    background: url(../images/latest_work11.jpg) no-repeat;
+    background: url(latest_work11.jpg) no-repeat;
 }
 
 #work12 {
-    background: url(../images/latest_work12.jpg) no-repeat;
+    background: url(latest_work12.jpg) no-repeat;
 }
 
 #work13 {
-    background: url(../images/latest_work13.jpg) no-repeat;
+    background: url(latest_work13.jpg) no-repeat;
 }
 
 #work14 {
-    background: url(../images/latest_work14.jpg) no-repeat;
+    background: url(latest_work14.jpg) no-repeat;
 }
 
 #work15 {
-    background: url(../images/latest_work15.jpg) no-repeat;
+    background: url(latest_work15.jpg) no-repeat;
 }
 
 #work16 {
-    background: url(../images/latest_work16.jpg) no-repeat;
+    background: url(latest_work16.jpg) no-repeat;
 }
 
 /* ----- Carousel and Portfolio Styling ----- */
@@ -343,7 +343,7 @@ h1 a {
 }
 
 #testimonials h3 {
-    background: url(../images/speechcloud_icon.png) no-repeat left;
+    background: url(speechcloud_icon.png) no-repeat left;
     font-size: 15px;
     font-weight: bold;
     height: 18px;
@@ -368,7 +368,7 @@ h1 a {
 }
 
 #clients h3 {
-    background: url(../images/people_icon.png) no-repeat left;
+    background: url(people_icon.png) no-repeat left;
     font-size: 15px;
     font-weight: bold;
     height: 16px;
@@ -405,7 +405,7 @@ h1 a {
 }
 
 #download a {
-    background: url(../images/download_button.png) no-repeat;
+    background: url(download_button.png) no-repeat;
     display: block;
     color: #0d0707;
     font-size: 18px;
@@ -426,13 +426,13 @@ h1 a {
 /* ----- Portfolio Content Styling ----- */
 
 #portfolio_area {
-    background: url(../images/banner_shadow.png) repeat-x;
+    background: url(banner_shadow.png) repeat-x;
     border-top: 1px solid #d9d9d9;
     padding-top: 38px;
 }
 
 #portfolio {
-    background: url(../images/paintbrush_icon.png) no-repeat;
+    background: url(paintbrush_icon.png) no-repeat;
     font-size: 15px;
     font-weight: bold;
     height: 19px;
@@ -530,13 +530,13 @@ a#pagination_next:hover, a#pagination_end:hover {
 /* ----- Contact Content Styling ----- */
 
 #contact_area {
-    background: url(../images/banner_shadow.png) repeat-x;
+    background: url(banner_shadow.png) repeat-x;
     border-top: 1px solid #d9d9d9;
     padding-top: 38px;
 }
 
 #contact {
-    background: url(../images/envelope_icon.png) no-repeat;
+    background: url(envelope_icon.png) no-repeat;
     font-size: 15px;
     font-weight: bold;
     height: 15px;
@@ -628,7 +628,7 @@ a#pagination_next:hover, a#pagination_end:hover {
 }
 
 #contact_form input[type="submit"] {
-    background: url(../images/submit_button.png) no-repeat;
+    background: url(submit_button.png) no-repeat;
     border: none;
     cursor: pointer;
     font-size: 18px;
@@ -715,27 +715,27 @@ a#pagination_next:hover, a#pagination_end:hover {
 }
 
 #facebook {
-    background: url(../images/facebook_icon.png) no-repeat;
+    background: url(facebook_icon.png) no-repeat;
 }
 
 #dribbble {
-    background: url(../images/dribbble_icon.png) no-repeat;
+    background: url(dribbble_icon.png) no-repeat;
 }
 
 #pinterest {
-    background: url(../images/pinterest_icon.png) no-repeat;
+    background: url(pinterest_icon.png) no-repeat;
 }
 
 #linkedin {
-    background: url(../images/linkedin_icon.png) no-repeat;
+    background: url(linkedin_icon.png) no-repeat;
 }
 
 #skype {
-    background: url(../images/skype_icon.png) no-repeat;
+    background: url(skype_icon.png) no-repeat;
 }
 
 #sharethis {
-    background: url(../images/sharethis_icon.png) no-repeat;
+    background: url(sharethis_icon.png) no-repeat;
 }
 
 p#copyright {
@@ -745,7 +745,7 @@ p#copyright {
 }
 
 #footer_logo {
-    background: url(../images/logo.png) no-repeat;
+    background: url(logo.png) no-repeat;
     display: block;
     float: right;
     height: 37px;
